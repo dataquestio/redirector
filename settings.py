@@ -1,0 +1,1 @@
+BASE_NEW_PATH = "https://www.dataquest.io"
